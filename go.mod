@@ -1,4 +1,4 @@
-module github.com/arenadata/klog
+module gitlab.adsw.io/platform/klog
 
 go 1.18
 
